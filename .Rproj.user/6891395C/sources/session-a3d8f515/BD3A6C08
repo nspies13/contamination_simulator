@@ -1,0 +1,26 @@
+{
+    "id": "BD3A6C08",
+    "path": "~/git/contamination_simulator/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "1976035920",
+    "contents": "",
+    "dirty": true,
+    "created": 1680322227079.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "67,38",
+        "scrollLine": "44"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680326922,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680326922215,
+    "read_only": false,
+    "read_only_alternatives": []
+}
