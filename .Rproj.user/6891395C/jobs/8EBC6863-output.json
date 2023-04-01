@@ -1,0 +1,8 @@
+[1,"Installing 'plotly' ...\n"]
+[1,"Retrieving 'https://cran.rstudio.com/bin/macosx/contrib/4.2/plotly_4.10.1.tgz' ...\n"]
+[1,"\tOK [downloaded 3 Mb in 5.9 secs]\n"]
+[1,"Installing plotly [4.10.1] ...\n"]
+[1,"\tOK [installed binary]\n"]
+[1,"Moving plotly [4.10.1] into the cache ...\n"]
+[1,"\tOK [moved to cache in 0.76 milliseconds]\n"]
+[2,"\n\n✔ Package 'plotly' successfully installed.\n"]
